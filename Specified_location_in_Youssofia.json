@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+
+          "name": "Youcode",
+          "type": "School"
+        },
+        "geometry": {
+          "coordinates": [
+            32.24759158190627,
+            -8.521595052423551
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Carlo Coffeeshop",
+          "type": "Coffee shop"
+        },
+        "geometry": {
+          "coordinates": [
+            32.24829030068596,
+             -8.5247064277108
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Café CASA COFFEE",
+          "type": "Coffee shop"
+        },
+        "geometry": {
+          "coordinates": [
+            32.24793224752111,
+             -8.522590958710047
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
